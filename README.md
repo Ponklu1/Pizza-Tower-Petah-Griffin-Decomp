@@ -12,7 +12,7 @@
 
 * ##### GameMaker Studio 1.4, preferably, use [1804](http://store.yoyogames.com/downloads/gm-studio/GMStudio-Installer-1.4.1804.exe).
 * ##### The decomp itself
-* ##### Experience with using a computer.
+* ##### Experience with a computer.
 
 # 
 
