@@ -8,7 +8,7 @@
 
 # Warning!
 
-#### I do not recommend attempting to import this decomp to GameMaker: Studio 2 *(basically the current versions of GameMaker that can be downloaded on the official site)*. If you do, you do so at your own risk! I will not provide support for anyone importing this decomp to any new version of GameMaker, since it can *AND WILL* break everything.
+#### I do not recommend attempting to import this decomp to GameMaker: Studio 2 *(basically the current versions of GameMaker that can be downloaded on the official site)*. If you do, you do so at your own risk! I will not provide support for anyone importing this decomp to any new version of GameMaker, since it can *AND WILL* break the execution order!
 
 # Requirements to use this decomp :
 
